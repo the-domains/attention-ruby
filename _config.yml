@@ -1,0 +1,28 @@
+name: 'Attention: Ruby'
+favicon: null
+layout_spectrum: 0.25789241935126483
+typography_spectrum: 0.4557607888709754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9827335015870631
+  lightness: 0.49846544954925776
+  saturation: 0.6128054375294596
+  rhythmicContrast: 0.7049042843282223
+purpose: []
