@@ -4,7 +4,7 @@
         <description><![CDATA[Attention: Ruby]]></description>
         <link>https://thegrid.ai/attention-ruby/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 18:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2015 18:05:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/attention-ruby/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[In re: Haircuts]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/attention-ruby/in-re-haircuts/index.html</link>
             <guid isPermaLink="false">2cb43678-be64-4bf2-be4d-df6c62d1b668</guid>
             <pubDate>Wed, 16 Dec 2015 18:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Re: Haircuts]]></title>
-            <description><![CDATA[<h1>In Re: Haircuts</h1>]]></description>
-            <link>https://thegrid.ai/attention-ruby/in-re-haircuts/index.html</link>
-            <guid isPermaLink="false">e5597fa2-5a1e-4306-958a-d7213544af47</guid>
-            <pubDate>Wed, 16 Dec 2015 15:17:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
