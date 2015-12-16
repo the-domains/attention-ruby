@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Attention: Ruby]]></title>
+        <description><![CDATA[Attention: Ruby]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 15:17:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In Re: Haircuts]]></title>
+            <description><![CDATA[<h1>In Re: Haircuts</h1>]]></description>
+            <link>undefinedin-re-haircuts/index.html</link>
+            <guid isPermaLink="false">e5597fa2-5a1e-4306-958a-d7213544af47</guid>
+            <pubDate>Wed, 16 Dec 2015 15:17:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
