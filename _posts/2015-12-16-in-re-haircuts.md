@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: "This is something you'll have to think about a lot. "
-datePublished: '2015-12-16T18:04:39.299Z'
-dateModified: '2015-12-16T18:04:27.156Z'
+datePublished: '2015-12-16T19:10:54.116Z'
+dateModified: '2015-12-16T18:10:11.215Z'
 title: 'In re: Haircuts'
 author: []
+sourcePath: _posts/2015-12-16-in-re-haircuts.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-16-in-re-haircuts.md
-published: true
-url: in-re-haircuts/index.html
-_type: Article
+_type: Blurb
 
 ---
 In re: Haircuts
