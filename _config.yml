@@ -1,6 +1,6 @@
 name: 'Attention: Ruby'
 favicon: null
-layout_spectrum: 0.49121
+layout_spectrum: 0.2581
 typography_spectrum: 1
 title: 'Attention: Ruby'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9827335015870631
+  brandStrength: 0.5
   lightness: 0.25
   saturation: 0.625
   rhythmicContrast: 0.7049042843282223
